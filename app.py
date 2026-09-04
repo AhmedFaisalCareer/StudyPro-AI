@@ -66,7 +66,7 @@ st.markdown("""
 # CONFIGURATION
 # ============================================================
 
-FIREBASE_URL = "https://ai-study-helper-69c91-default-rtdb.firebaseio.com"
+FIREBASE_URL = "https://studypro-ai-34d6f-default-rtdb.firebaseio.com/"
 
 GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
 
